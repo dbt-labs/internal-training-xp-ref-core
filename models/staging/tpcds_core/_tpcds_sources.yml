@@ -1,6 +1,6 @@
 sources:
   - name: tpcds_core
-    database: raw_tpch
+    database: snowflake_sample_data
     schema: tpcds_sf10tcl
     tables:
       - name: call_center
